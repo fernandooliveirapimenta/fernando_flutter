@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "881646258072",
+    "firebase_url": "https://projeto-teste-38422.firebaseio.com",
+    "project_id": "projeto-teste-38422",
+    "storage_bucket": "projeto-teste-38422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881646258072:android:fc36aa41bfbedd33",
+        "android_client_info": {
+          "package_name": "br.com.firstapp.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt4eqMIYJBJh8edzX3Tey72OqQ_Fc6bEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881646258072-jm1qhn9hants9m1issj6i43kc31grsru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

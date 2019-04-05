@@ -1,0 +1,36 @@
+name: firstapp
+description: teste
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  english_words: ^3.1.0
+  cloud_firestore: ^0.8.2
+  awesome_package: 0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
+        - asset: fonts/Raleway-BoldItalic.ttf
+          style: italic
+    - family: Exo2
+      fonts:
+        - asset: packages/awesome_package/fonts/Exo2-BlackItalic.ttf
+          style: italic
+
+  uses-material-design: true
+
